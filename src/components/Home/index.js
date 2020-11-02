@@ -1,6 +1,5 @@
 import React from 'react';
 import './Home.scss';
-import { Container, Row, Col } from 'reactstrap';
 
 const Home = () => {
   return (
@@ -11,7 +10,7 @@ const Home = () => {
     //   </div>
     // </div>
     <div className="home">
-      <Container className="home-container">
+      {/* <Container className="home-container">
         <Row>
           <Col xs={12} sm={12} md={12}>
             <div className="title">
@@ -21,7 +20,7 @@ const Home = () => {
             </div>
           </Col>
         </Row>
-      </Container>
+      </Container> */}
     </div>
     // <div class="bg">
     //   <img src="/home.png" alt="" />
