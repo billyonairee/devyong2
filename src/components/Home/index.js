@@ -10,6 +10,13 @@ const Home = () => {
     //   </div>
     // </div>
     <div className="home">
+      <div className="home-container">
+        <div className="title">
+          <div>Hello🖐,</div>
+          <div>I’m YONG SEOK.</div>
+          <div>JavaScript Developer.</div>
+        </div>
+      </div>
       {/* <Container className="home-container">
         <Row>
           <Col xs={12} sm={12} md={12}>
