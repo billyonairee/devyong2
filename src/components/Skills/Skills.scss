@@ -1,0 +1,31 @@
+@import "../../App.scss";
+
+.body {
+  @include body;
+  margin: 0;
+}
+
+.skills-container {
+  background-color: #f4f4f4;
+  padding: 10vh 10vw;
+  text-align: center;
+
+  .skill-list {
+    display: flex;
+    flex-wrap: wrap;
+
+    .skill {
+      width: 20%;
+      margin: 10px 0;
+
+      img {
+        width: 70px;
+      }
+
+      div {
+        font-family: "Patua One", cursive;
+        font-size: 20px;
+      }
+    }
+  }
+}
