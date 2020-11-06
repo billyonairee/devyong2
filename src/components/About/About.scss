@@ -2,6 +2,7 @@
 
 .body {
   @include body;
+  margin: 0 15vw !important;
 }
 
 .my-info {
@@ -15,7 +16,7 @@
   }
   .add-info-title {
     font-size: 20px;
-    font-weight: bold;
+    font-family: "Jua", sans-serif;
     padding-top: 20px;
   }
 }

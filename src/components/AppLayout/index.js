@@ -21,6 +21,9 @@ const AppLayout = () => {
           <a className="nav-link" href="/skills">
             SKILLS
           </a>
+          <a className="nav-link" href="/contact">
+            CONTACT
+          </a>
         </nav>
       </nav>
     </div>

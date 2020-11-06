@@ -13,8 +13,8 @@ const About = () => {
         <div className="my-info">
           <div>
             <svg
-              width="5em"
-              height="5em"
+              width="4em"
+              height="4em"
               viewBox="0 0 16 16"
               className="bi bi-people-fill"
               fill="currentColor"
@@ -24,12 +24,12 @@ const About = () => {
                 d="M7 14s-1 0-1-1 1-4 5-4 5 3 5 4-1 1-1 1H7zm4-6a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm-5.784 6A2.238 2.238 0 0 1 5 13c0-1.355.68-2.75 1.936-3.72A6.325 6.325 0 0 0 5 9c-4 0-5 3-5 4s1 1 1 1h4.216zM4.5 8a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5z"
               />
             </svg>
-            <div className="add-info-title">협업</div>
+            <div className="add-info-title">Cooperation</div>
           </div>
           <div>
             <svg
-              width="5em"
-              height="5em"
+              width="4em"
+              height="4em"
               viewBox="0 0 16 16"
               className="bi bi-lightning-fill"
               fill="currentColor"
@@ -39,12 +39,12 @@ const About = () => {
                 d="M11.251.068a.5.5 0 0 1 .227.58L9.677 6.5H13a.5.5 0 0 1 .364.843l-8 8.5a.5.5 0 0 1-.842-.49L6.323 9.5H3a.5.5 0 0 1-.364-.843l8-8.5a.5.5 0 0 1 .615-.09z"
               />
             </svg>
-            <div className="add-info-title">끈기</div>
+            <div className="add-info-title">Positive</div>
           </div>
           <div>
             <svg
-              width="5em"
-              height="5em"
+              width="4em"
+              height="4em"
               viewBox="0 0 16 16"
               className="bi bi-shift-fill"
               fill="currentColor"
@@ -54,12 +54,12 @@ const About = () => {
                 d="M7.27 2.047a1 1 0 0 1 1.46 0l6.345 6.77c.6.638.146 1.683-.73 1.683H11.5v3a1 1 0 0 1-1 1h-5a1 1 0 0 1-1-1v-3H1.654C.78 10.5.326 9.455.924 8.816L7.27 2.047z"
               />
             </svg>
-            <div className="add-info-title">발전</div>
+            <div className="add-info-title">Progressive</div>
           </div>
           <div>
             <svg
-              width="5em"
-              height="5em"
+              width="4em"
+              height="4em"
               viewBox="0 0 16 16"
               className="bi bi-trophy-fill"
               fill="currentColor"
@@ -69,7 +69,7 @@ const About = () => {
                 d="M2.5.5A.5.5 0 0 1 3 0h10a.5.5 0 0 1 .5.5c0 .538-.012 1.05-.034 1.536a3 3 0 1 1-1.133 5.89c-.79 1.865-1.878 2.777-2.833 3.011v2.173l1.425.356c.194.048.377.135.537.255L13.3 15.1a.5.5 0 0 1-.3.9H3a.5.5 0 0 1-.3-.9l1.838-1.379c.16-.12.343-.207.537-.255L6.5 13.11v-2.173c-.955-.234-2.043-1.146-2.833-3.012a3 3 0 1 1-1.132-5.89A33.076 33.076 0 0 1 2.5.5zm.099 2.54a2 2 0 0 0 .72 3.935c-.333-1.05-.588-2.346-.72-3.935zm10.083 3.935a2 2 0 0 0 .72-3.935c-.133 1.59-.388 2.885-.72 3.935z"
               />
             </svg>
-            <div className="add-info-title">도전</div>
+            <div className="add-info-title">challenging</div>
           </div>
         </div>
 

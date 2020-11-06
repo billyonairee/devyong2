@@ -1,0 +1,22 @@
+@import "../../App.scss";
+
+.body {
+  @include body;
+}
+
+.projects-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+
+  .card {
+    cursor: pointer;
+    margin: 20px 0;
+    width: 30%;
+
+    .img-box {
+      max-height: 213px;
+      overflow: hidden;
+    }
+  }
+}

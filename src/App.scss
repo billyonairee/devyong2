@@ -29,3 +29,15 @@
     font-family: "Patua One", cursive;
   }
 }
+
+.modal-80w {
+  position: fixed;
+  left: 15vw;
+  min-width: 70vw !important;
+  
+  .modal-body-container {
+    max-height: 80vh;
+    overflow-y: scroll;
+    overflow-x: hidden;
+  }
+}

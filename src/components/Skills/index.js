@@ -19,12 +19,12 @@ const Skills = () => {
             <div>Html5</div>
           </div>
           <div className="skill">
-            <img src="devyong2/logo/nodejs_logo.png" alt="" />
-            <div>Node.js</div>
-          </div>
-          <div className="skill">
             <img src="devyong2/logo/css3_logo.png" alt="" />
             <div>css3</div>
+          </div>
+          <div className="skill">
+            <img src="devyong2/logo/nodejs_logo.png" alt="" />
+            <div>Node.js</div>
           </div>
           <div className="skill">
             <img src="devyong2/logo/jQuery_logo.png" alt="" />
