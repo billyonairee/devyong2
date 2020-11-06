@@ -23,6 +23,7 @@ const App = () => {
           <Route path="/contact" component={Contact} />
         </Switch>
       </div>
+      {/* bottom */}
     </HashRouter>
   );
 };

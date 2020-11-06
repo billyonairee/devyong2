@@ -27,7 +27,7 @@ const Skills = () => {
             <div>Node.js</div>
           </div>
           <div className="skill">
-            <img src="logo/jQuery_logo.png" alt="" />
+            <img src="logo/jquery_logo.png" alt="" />
             <div>jQuery</div>
           </div>
           <div className="skill">
@@ -47,7 +47,7 @@ const Skills = () => {
             <div>Ionic</div>
           </div>
           <div className="skill">
-            <img src="logo/typeScript_logo.png" alt="" />
+            <img src="logo/typescript_logo.png" alt="" />
             <div>TypeScript</div>
           </div>
           <div className="skill">

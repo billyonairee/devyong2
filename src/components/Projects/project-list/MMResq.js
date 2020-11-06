@@ -2,7 +2,7 @@ import React, { useState, forwardRef, useImperativeHandle } from 'react';
 import { Button, Modal, Carousel } from 'react-bootstrap';
 import './projectItem.scss';
 
-const MMReq = forwardRef((props, ref) => {
+const MMResq = forwardRef((props, ref) => {
   const [show, setShow] = useState(false);
   const [index, setIndex] = useState(0);
 
@@ -36,14 +36,14 @@ const MMReq = forwardRef((props, ref) => {
                 <Carousel.Item>
                   <img
                     className="d-block w-100"
-                    src="MMReq/MMReq_1.png"
+                    src="MMResq/MMResq_1.png"
                     alt="First slide"
                   />
                 </Carousel.Item>
                 <Carousel.Item>
                   <img
                     className="d-block w-100"
-                    src="MMReq/MMReq_2.png"
+                    src="MMResq/MMResq_2.png"
                     alt="Second slide"
                   />
                 </Carousel.Item>
@@ -121,4 +121,4 @@ const MMReq = forwardRef((props, ref) => {
   );
 });
 
-export default MMReq;
+export default MMResq;

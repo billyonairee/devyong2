@@ -6,7 +6,7 @@ import Nodebird from './project-list/Nodebird';
 import NbbangApp from './project-list/NbbangApp';
 import NbbangAdmin from './project-list/NbbangAdmin';
 import Class101 from './project-list/Class101';
-import MMReq from './project-list/MMReq';
+import MMResq from './project-list/MMResq';
 
 
 import './Projects.scss';
@@ -30,8 +30,8 @@ const Projects = () => {
   const class101HandleShow = () => {
     class101Ref.current.openModal();
   };
-  const mmReqHandleShow = () => {
-    mmReqRef.current.openModal();
+  const mmResqHandleShow = () => {
+    mmResqRef.current.openModal();
   };
   const devYong2Ref = useRef();
   const snsAppRef = useRef();
@@ -39,7 +39,7 @@ const Projects = () => {
   const nbbangAppRef = useRef();
   const nbbangAdminRef = useRef();
   const class101Ref = useRef();
-  const mmReqRef = useRef();
+  const mmResqRef = useRef();
   
   return (
     <div className="body">
@@ -103,9 +103,9 @@ const Projects = () => {
             <Card.Text>기업 앱 (기업협업)</Card.Text>
           </Card.Body>
         </Card>
-        <Card onClick={mmReqHandleShow}>
+        <Card onClick={mmResqHandleShow}>
           <div className="img-box">
-            <Card.Img variant="top" src="MMReq/MMReq_1.png" />
+            <Card.Img variant="top" src="MMResq/MMResq_1.png" />
           </div>
           <Card.Body>
             <Card.Title>멍멍ResQ</Card.Title>
@@ -126,7 +126,7 @@ const Projects = () => {
       <NbbangApp ref={nbbangAppRef} />
       <NbbangAdmin ref={nbbangAdminRef} />
       <Class101 ref={class101Ref} />
-      <MMReq ref={mmReqRef} />
+      <MMResq ref={mmResqRef} />
     </div>
   );
 };
