@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/devyong2/static/css/main.af2b2b8b.chunk.css",
-    "main.js": "/devyong2/static/js/main.cf0573a9.chunk.js",
-    "main.js.map": "/devyong2/static/js/main.cf0573a9.chunk.js.map",
+    "main.js": "/devyong2/static/js/main.deda9753.chunk.js",
+    "main.js.map": "/devyong2/static/js/main.deda9753.chunk.js.map",
     "runtime-main.js": "/devyong2/static/js/runtime-main.94bef30b.js",
     "runtime-main.js.map": "/devyong2/static/js/runtime-main.94bef30b.js.map",
     "static/js/2.c3d93590.chunk.js": "/devyong2/static/js/2.c3d93590.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.94bef30b.js",
     "static/js/2.c3d93590.chunk.js",
     "static/css/main.af2b2b8b.chunk.css",
-    "static/js/main.cf0573a9.chunk.js"
+    "static/js/main.deda9753.chunk.js"
   ]
 }
