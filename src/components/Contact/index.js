@@ -11,7 +11,7 @@ const Contact = () => {
 
       <div className="contact-container">
         <div className="channel">
-          <img src="devyong2/logo/gmail_logo.png" alt="" />
+          <img src="logo/gmail_logo.png" alt="" />
           <span>lyslg1018@gmail.com</span>
         </div>
         <div className="channel">
@@ -19,7 +19,7 @@ const Contact = () => {
             href="https://github.com/lyslg"
             target="_blank"
             rel="noopener noreferrer">
-            <img src="devyong2/logo/github_logo.png" alt="" />
+            <img src="logo/github_logo.png" alt="" />
           </a>
           <span>github.com/lyslg</span>
         </div>
@@ -28,7 +28,7 @@ const Contact = () => {
             href="https://medium.com/@lyslg1018"
             target="_blank"
             rel="noopener noreferrer">
-            <img src="devyong2/logo/medium_logo.png" alt="" />
+            <img src="logo/medium_logo.png" alt="" />
           </a>
           <span>medium.com/@lyslg1018</span>
         </div>

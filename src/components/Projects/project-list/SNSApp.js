@@ -26,28 +26,27 @@ const SNSApp = forwardRef((props, ref) => {
             <Modal.Title>
               SNS App
               <span>
-                <img src="devyong2/mobile_icon.png" alt="" /> APP
+                <img src="on.png" alt="" /> APP
               </span>
             </Modal.Title>
           </Modal.Header>
           <div className="modal-body-container">
-            ontainer">
             <div className="carousel-box">
               <Carousel activeIndex={index} onSelect={handleSelect} interval={2000}>
                 <Carousel.Item>
-                  <img className="d-block" src="devyong2/SNSApp/SNSApp_1.png" alt="First slide" />
+                  <img className="d-block" src="SNSApp/SNSApp_1.png" alt="First slide" />
                 </Carousel.Item>
                 <Carousel.Item>
-                  <img className="d-block" src="devyong2/SNSApp/SNSApp_2.png" alt="Third slide" />
+                  <img className="d-block" src="SNSApp/SNSApp_2.png" alt="Third slide" />
                 </Carousel.Item>
                 <Carousel.Item>
-                  <img className="d-block" src="devyong2/SNSApp/SNSApp_3.png" alt="Third slide" />
+                  <img className="d-block" src="SNSApp/SNSApp_3.png" alt="Third slide" />
                 </Carousel.Item>
                 <Carousel.Item>
-                  <img className="d-block" src="devyong2/SNSApp/SNSApp_4.png" alt="Third slide" />
+                  <img className="d-block" src="SNSApp/SNSApp_4.png" alt="Third slide" />
                 </Carousel.Item>
                 <Carousel.Item>
-                  <img className="d-block" src="devyong2/SNSApp/SNSApp_5.png" alt="Third slide" />
+                  <img className="d-block" src="SNSApp/SNSApp_5.png" alt="Third slide" />
                 </Carousel.Item>
               </Carousel>
             </div>
@@ -110,7 +109,7 @@ const SNSApp = forwardRef((props, ref) => {
                   href="https://github.com/lyslg/SNSapp"
                   target="_blank"
                   rel="noopener noreferrer">
-                  <img src="devyong2/logo/github_logo.png" alt="" />
+                  <img src="logo/github_logo.png" alt="" />
                 </a>
               </span>
             </div>

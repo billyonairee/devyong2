@@ -26,7 +26,7 @@ const Nodebird = forwardRef((props, ref) => {
             <Modal.Title>
               Node Bird
               <span>
-                <img src="devyong2/pc_icon.png" alt="" /> WEB
+                <img src="pc_icon.png" alt="" /> WEB
               </span>
             </Modal.Title>
           </Modal.Header>
@@ -36,15 +36,15 @@ const Nodebird = forwardRef((props, ref) => {
                 <Carousel.Item>
                   <img
                     className="d-block w-100"
-                    src="devyong2/Nodebird/Nodebird_1.png"
+                    src="Nodebird/Nodebird_1.png"
                     alt="First slide"
                   />
                 </Carousel.Item>
                 <Carousel.Item>
                   <img
                     className="d-block w-100"
-                    src="devyong2/Nodebird/Nodebird_2.png"
-                    alt="Third slide"
+                    src="Nodebird/Nodebird_2.png"
+                    alt="second slide"
                   />
                 </Carousel.Item>
               </Carousel>
@@ -113,7 +113,7 @@ const Nodebird = forwardRef((props, ref) => {
                   href="https://github.com/lyslg/react-nodebird"
                   target="_blank"
                   rel="noopener noreferrer">
-                  <img src="devyong2/logo/github_logo.png" alt="" />
+                  <img src="logo/github_logo.png" alt="" />
                 </a>
               </span>
             </div>

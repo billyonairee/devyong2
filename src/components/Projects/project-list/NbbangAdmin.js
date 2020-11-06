@@ -26,7 +26,7 @@ const NbbangAdmin = forwardRef((props, ref) => {
             <Modal.Title>
               Business Admin Page
               <span>
-                <img src="devyong2/pc_icon.png" alt="" /> WEB
+                <img src="pc_icon.png" alt="" /> WEB
               </span>
             </Modal.Title>
           </Modal.Header>
@@ -36,35 +36,35 @@ const NbbangAdmin = forwardRef((props, ref) => {
                 <Carousel.Item>
                   <img
                     className="d-block w-100"
-                    src="devyong2/NbbangAdmin/Nbbang-admin_1.png"
+                    src="NbbangAdmin/Nbbang-admin_1.png"
                     alt="First slide"
                   />
                 </Carousel.Item>
                 <Carousel.Item>
                   <img
                     className="d-block w-100"
-                    src="devyong2/NbbangAdmin/Nbbang-admin_2.png"
+                    src="NbbangAdmin/Nbbang-admin_2.png"
                     alt="Third slide"
                   />
                 </Carousel.Item>
                 <Carousel.Item>
                   <img
                     className="d-block w-100"
-                    src="devyong2/NbbangAdmin/Nbbang-admin_3.png"
+                    src="NbbangAdmin/Nbbang-admin_3.png"
                     alt="Third slide"
                   />
                 </Carousel.Item>
                 <Carousel.Item>
                   <img
                     className="d-block w-100"
-                    src="devyong2/NbbangAdmin/Nbbang-admin_4.png"
+                    src="NbbangAdmin/Nbbang-admin_4.png"
                     alt="Third slide"
                   />
                 </Carousel.Item>
                 <Carousel.Item>
                   <img
                     className="d-block w-100"
-                    src="devyong2/NbbangAdmin/Nbbang-admin_5.png"
+                    src="NbbangAdmin/Nbbang-admin_5.png"
                     alt="Third slide"
                   />
                 </Carousel.Item>
@@ -127,7 +127,6 @@ const NbbangAdmin = forwardRef((props, ref) => {
                 </svg>
                 <span> 기획 디자인 개발</span>
               </div>
-              <img src="devyong2/logo/github_logo.png" alt="" />
             </div>
           </div>
         </Modal.Body>

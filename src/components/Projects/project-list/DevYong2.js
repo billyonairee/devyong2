@@ -26,7 +26,7 @@ const DevYong2 = forwardRef((props, ref) => {
             <Modal.Title>
               DevYong2 ( 포트폴리오 )
               <span>
-                <img src="devyong2/pc_icon.png" alt="" /> WEB
+                <img src="pc_icon.png" alt="" /> WEB
               </span>
             </Modal.Title>
           </Modal.Header>
@@ -36,21 +36,21 @@ const DevYong2 = forwardRef((props, ref) => {
                 <Carousel.Item>
                   <img
                     className="d-block w-100"
-                    src="devyong2/DevYong2/DevYong2_1.png"
+                    src="DevYong2/DevYong2_1.png"
                     alt="First slide"
                   />
                 </Carousel.Item>
                 <Carousel.Item>
                   <img
                     className="d-block w-100"
-                    src="devyong2/DevYong2/DevYong2_2.png"
+                    src="DevYong2/DevYong2_2.png"
                     alt="Third slide"
                   />
                 </Carousel.Item>
                 <Carousel.Item>
                   <img
                     className="d-block w-100"
-                    src="devyong2/DevYong2/DevYong2_3.png"
+                    src="DevYong2/DevYong2_3.png"
                     alt="Third slide"
                   />
                 </Carousel.Item>
@@ -113,7 +113,7 @@ const DevYong2 = forwardRef((props, ref) => {
                   href="https://github.com/lyslg/devyong2"
                   target="_blank"
                   rel="noopener noreferrer">
-                  <img src="devyong2/logo/github_logo.png" alt="" />
+                  <img src="logo/github_logo.png" alt="" />
                 </a>
               </span>
             </div>

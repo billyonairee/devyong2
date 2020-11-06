@@ -76,7 +76,7 @@ const About = () => {
         <div className="profile">
           <div className="profile-main">
             <div className="sub-title">Profile</div>
-            <img src="devyong2/caricature.png" alt="profile" />
+            <img src="caricature.png" alt="profile" />
             <div className="name">
               <span>이 용 석</span>
               <span>Lee Yong Seok</span>

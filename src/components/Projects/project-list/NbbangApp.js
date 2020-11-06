@@ -26,7 +26,7 @@ const NbbangApp = forwardRef((props, ref) => {
             <Modal.Title>
               Business App
               <span>
-                <img src="devyong2/mobile_icon.png" alt="" /> APP
+                <img src="mobile_icon.png" alt="" /> APP
               </span>
             </Modal.Title>
           </Modal.Header>
@@ -36,35 +36,35 @@ const NbbangApp = forwardRef((props, ref) => {
                 <Carousel.Item>
                   <img
                     className="d-block"
-                    src="devyong2/NbbangApp/Nbbang-app_1.png"
+                    src="NbbangApp/Nbbang-app_1.png"
                     alt="First slide"
                   />
                 </Carousel.Item>
                 <Carousel.Item>
                   <img
                     className="d-block"
-                    src="devyong2/NbbangApp/Nbbang-app_2.png"
+                    src="NbbangApp/Nbbang-app_2.png"
                     alt="Third slide"
                   />
                 </Carousel.Item>
                 <Carousel.Item>
                   <img
                     className="d-block"
-                    src="devyong2/NbbangApp/Nbbang-app_3.png"
+                    src="NbbangApp/Nbbang-app_3.png"
                     alt="Third slide"
                   />
                 </Carousel.Item>
                 <Carousel.Item>
                   <img
                     className="d-block"
-                    src="devyong2/NbbangApp/Nbbang-app_4.png"
+                    src="NbbangApp/Nbbang-app_4.png"
                     alt="Third slide"
                   />
                 </Carousel.Item>
                 <Carousel.Item>
                   <img
                     className="d-block"
-                    src="devyong2/NbbangApp/Nbbang-app_5.png"
+                    src="NbbangApp/Nbbang-app_5.png"
                     alt="Third slide"
                   />
                 </Carousel.Item>
@@ -122,7 +122,6 @@ const NbbangApp = forwardRef((props, ref) => {
                 </svg>
                 <span> 기획 디자인 개발</span>
               </div>
-              <img src="devyong2/logo/github_logo.png" alt="" />
             </div>
           </div>
         </Modal.Body>

@@ -26,7 +26,7 @@ const MMReq = forwardRef((props, ref) => {
             <Modal.Title>
               MMResQ
               <span>
-                <img src="devyong2/pc_icon.png" alt="" /> WEB
+                <img src="pc_icon.png" alt="" /> WEB
               </span>
             </Modal.Title>
           </Modal.Header>
@@ -36,15 +36,15 @@ const MMReq = forwardRef((props, ref) => {
                 <Carousel.Item>
                   <img
                     className="d-block w-100"
-                    src="devyong2/MMReq/MMReq_1.png"
+                    src="MMReq/MMReq_1.png"
                     alt="First slide"
                   />
                 </Carousel.Item>
                 <Carousel.Item>
                   <img
                     className="d-block w-100"
-                    src="devyong2/MMReq/MMReq_2.png"
-                    alt="Third slide"
+                    src="MMReq/MMReq_2.png"
+                    alt="Second slide"
                   />
                 </Carousel.Item>
               </Carousel>
@@ -107,7 +107,7 @@ const MMReq = forwardRef((props, ref) => {
                   href="https://github.com/lyslg/client-mmrq-public"
                   target="_blank"
                   rel="noopener noreferrer">
-                  <img src="devyong2/logo/github_logo.png" alt="" />
+                  <img src="logo/github_logo.png" alt="" />
                 </a>
               </span>
             </div>

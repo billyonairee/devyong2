@@ -26,7 +26,7 @@ const Class101 = forwardRef((props, ref) => {
             <Modal.Title>
               Business App
               <span>
-                <img src="devyong2/mobile_icon.png" alt="" /> APP
+                <img src="mobile_icon.png" alt="" /> APP
               </span>
             </Modal.Title>
           </Modal.Header>
@@ -36,21 +36,21 @@ const Class101 = forwardRef((props, ref) => {
                 <Carousel.Item>
                   <img
                     className="d-block"
-                    src="devyong2/Class101/Class101_1.png"
+                    src="Class101/Class101_1.png"
                     alt="First slide"
                   />
                 </Carousel.Item>
                 <Carousel.Item>
                   <img
                     className="d-block"
-                    src="devyong2/Class101/Class101_2.png"
+                    src="Class101/Class101_2.png"
                     alt="Third slide"
                   />
                 </Carousel.Item>
                 <Carousel.Item>
                   <img
                     className="d-block"
-                    src="devyong2/Class101/Class101_3.png"
+                    src="Class101/Class101_3.png"
                     alt="Third slide"
                   />
                 </Carousel.Item>

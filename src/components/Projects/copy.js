@@ -31,21 +31,21 @@ const Projects = () => {
                 <Carousel.Item>
                   <img
                     className="d-block w-100"
-                    src="devyong2/portfolio/portfolio_1.png"
+                    src="portfolio/portfolio_1.png"
                     alt="First slide"
                   />
                 </Carousel.Item>
                 <Carousel.Item>
                   <img
                     className="d-block w-100"
-                    src="devyong2/portfolio/portfolio_2.png"
+                    src="portfolio/portfolio_2.png"
                     alt="Third slide"
                   />
                 </Carousel.Item>
                 <Carousel.Item>
                   <img
                     className="d-block w-100"
-                    src="devyong2/portfolio/portfolio_1.png"
+                    src="portfolio/portfolio_1.png"
                     alt="Third slide"
                   />
                 </Carousel.Item>

@@ -5,23 +5,23 @@ const AppLayout = () => {
   return (
     <div className="header">
       <nav className="navbar navbar-light">
-        <a className="navbar-brand" href="/">
+        <a className="navbar-brand" href="/devyong2">
           DevYong2
         </a>
         <nav className="nav">
-          <a className="nav-link active" href="/">
+          <a className="nav-link active" href="/devyong2">
             HOME
           </a>
-          <a className="nav-link" href="/about">
+          <a className="nav-link" href="/devyong2/#/about">
             ABOUT
           </a>
-          <a className="nav-link" href="/projects">
+          <a className="nav-link" href="/devyong2/#/projects">
             PROJECTS
           </a>
-          <a className="nav-link" href="/skills">
+          <a className="nav-link" href="/devyong2/#/skills">
             SKILLS
           </a>
-          <a className="nav-link" href="/contact">
+          <a className="nav-link" href="/devyong2/#/contact">
             CONTACT
           </a>
         </nav>
