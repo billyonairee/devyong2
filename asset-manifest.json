@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/devyong2/static/css/main.6389785d.chunk.css",
-    "main.js": "/devyong2/static/js/main.5a6d2d00.chunk.js",
-    "main.js.map": "/devyong2/static/js/main.5a6d2d00.chunk.js.map",
+    "main.css": "/devyong2/static/css/main.9617f501.chunk.css",
+    "main.js": "/devyong2/static/js/main.1c5a99d5.chunk.js",
+    "main.js.map": "/devyong2/static/js/main.1c5a99d5.chunk.js.map",
     "runtime-main.js": "/devyong2/static/js/runtime-main.33d28a22.js",
     "runtime-main.js.map": "/devyong2/static/js/runtime-main.33d28a22.js.map",
     "static/js/2.180a923a.chunk.js": "/devyong2/static/js/2.180a923a.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.932cf0b4.chunk.js": "/devyong2/static/js/3.932cf0b4.chunk.js",
     "static/js/3.932cf0b4.chunk.js.map": "/devyong2/static/js/3.932cf0b4.chunk.js.map",
     "index.html": "/devyong2/index.html",
-    "static/css/main.6389785d.chunk.css.map": "/devyong2/static/css/main.6389785d.chunk.css.map",
+    "static/css/main.9617f501.chunk.css.map": "/devyong2/static/css/main.9617f501.chunk.css.map",
     "static/js/2.180a923a.chunk.js.LICENSE.txt": "/devyong2/static/js/2.180a923a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.33d28a22.js",
     "static/js/2.180a923a.chunk.js",
-    "static/css/main.6389785d.chunk.css",
-    "static/js/main.5a6d2d00.chunk.js"
+    "static/css/main.9617f501.chunk.css",
+    "static/js/main.1c5a99d5.chunk.js"
   ]
 }
