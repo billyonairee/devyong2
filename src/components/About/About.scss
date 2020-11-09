@@ -2,22 +2,22 @@
 
 .body {
   @include body;
-  margin: 0 15vw !important;
+
 }
 
 .my-info {
   display: flex;
   text-align: center;
-  margin-bottom: 50px;
+  margin-bottom: 20px;
 
   div {
     width: 33%;
     margin: 0 auto;
   }
   .add-info-title {
-    font-size: 20px;
+    font-size: 15px;
     font-family: "Jua", sans-serif;
-    padding-top: 20px;
+    padding-top: 10px;
   }
 }
 
@@ -31,13 +31,13 @@
     height: 50vh;
 
     img {
-      width: 200px;
-      height: 200px;
+      width: 150px;
+      height: 150px;
       margin: 5vh 5vw;
     }
 
     .name {
-      font-size: 20px;
+      font-size: 18px;
       display: grid;
       font-family: "Jua", sans-serif;
     }
@@ -50,20 +50,32 @@
       padding: 10px 20px;
       margin: 15px 0;
       border-radius: 10px;
-    }
-    .card-content {
-      div {
-        font-size: 20px;
-        font-weight: bold;
-      }
-      svg {
-        margin: 10px 0;
-      }
-    }
 
-    span {
-      margin-right: 10px;
-      background-color: yellow;
+      .card-text {
+        font-size: 17px;
+        font-weight: 600;
+        span {
+          margin-left: 10px;
+        }
+        .skills span {
+            background-color: yellow;
+        }
+      }
     }
+    
+    // .card-content {
+    //   div {
+    //     font-size: 18px;
+    //     font-weight: bold;
+    //   }
+    //   svg {
+    //     margin: 10px 0;
+    //   }
+    // }
+
+    // .skills span {
+    //   margin-right: 10px;
+    //   background-color: yellow;
+    // }
   }
 }

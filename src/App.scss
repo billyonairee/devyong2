@@ -1,16 +1,16 @@
-.main {
-  margin-top: 50px;
+.AppLayout {
+  height: 76px;
 }
 
 @mixin body {
-  margin: 0 15vw;
+  margin: 2vw 15vw !important;
 
   .body-head {
     margin-bottom: 80px;
 
     .head-title {
       text-align: center;
-      font-size: 55px;
+      font-size: 50px;
       color: #ff6363;
       font-family: "Jua", sans-serif;
     }
@@ -24,8 +24,8 @@
   }
 
   .sub-title {
-    font-size: 35px;
-    font-weight: 700;
+    font-size: 30px;
+    // font-weight: 600;
     font-family: "Jua", sans-serif;
   }
 }
