@@ -15,7 +15,7 @@ const Skills = () => {
             <div>javaScript</div>
           </div>
           <div className="skill">
-            <img src="logo/html5_logo.png" alt="" />
+            <img src="logo/HTML5_logo.png" alt="" />
             <div>Html5</div>
           </div>
           <div className="skill">
