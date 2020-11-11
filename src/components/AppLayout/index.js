@@ -8,8 +8,16 @@ const AppLayout = () => {
     <>
       <div className="header">
         <Navbar bg="white">
-          {/* <Navbar bg="dark" variant="dark"> */}
-          <Navbar.Brand href="/devyong2">DevYong2</Navbar.Brand>
+          <Navbar.Brand href="/devyong2">
+            <img
+              src="logo.png"
+              width="30"
+              height="30"
+              className="d-inline-block align-top"
+              alt="logo"
+            />
+            DevYong2
+          </Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Nav className="mr-auto">
             <Nav.Link href="/devyong2/#/">View</Nav.Link>
